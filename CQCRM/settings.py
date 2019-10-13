@@ -81,7 +81,7 @@ TEMPLATES = [
 ASGI_APPLICATION = 'CQCRM.routing.application'
 
 # Database
-# https://docs.djangoproject.com/en/1.11/ref/settings/#databases
+# https://ddocs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
     'default': {
